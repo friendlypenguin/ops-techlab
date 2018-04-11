@@ -17,7 +17,7 @@ Add the admin role of the project openshift-infra to the created user.
 
 Now login with the new user and check if you see the openshift-infra project
 ```
-[ec2-user@master0 ~]$ oc login https://console.[user].lab.openshift.ch
+[ec2-user@localhost ~]$ oc login https://console.[user].lab.openshift.ch
 Username: test-user
 Password:
 Login successful.
